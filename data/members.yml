@@ -1,0 +1,18 @@
+seb:
+  city: Paris
+  name: Seb's Home
+  description: CHarming room with Patio
+  bg_picture: card-paris.jpg
+  member_picture: seb.jpg
+anne:
+  city: Brussels
+  name: Anne's Home
+  description: CHarming room with Patio
+  bg_picture: card-brussels.jpeg
+  member_picture: anne.jpg
+romain:
+  city: London
+  name: Romain's Home
+  description: CHarming room with Patio
+  bg_picture: card-london.jpeg
+  member_picture: romain.jpeg

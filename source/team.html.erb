@@ -1,0 +1,13 @@
+<% members = ['jad', 'valentin', 'anne'] %>
+
+<div class="container">
+  <h1>Team</h1>
+  <ul class="list-inline">
+    <% members.each do |member| %>
+    <li>
+      <img src="http://placehold.it/100" alt="">
+      <h2><%= member %></h2>
+    </li>
+    <% end %>
+  </ul>
+</div>
